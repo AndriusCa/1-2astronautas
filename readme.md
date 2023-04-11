@@ -4,7 +4,7 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# Serlokas
+# Astronautas
 
 _website design project_
 
@@ -50,7 +50,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/AndriusCa/1.Serlokas.git
+   git clone https://andriusca.github.io/1-2astronautas/
    ```
 2. Install NPM packages
    ```sh
